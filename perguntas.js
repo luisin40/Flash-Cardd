@@ -2,15 +2,15 @@
 // Troque disciplina, pergunta e resposta pelos conteúdos que você criou.
 
 criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+   ' Fisica e tecnologia',
+    'O que é a energia',
+    'É a capacidade de realizar trabalho ou provocar mudanças
 )
 
 criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'Fisica e tecnologia',
+    'O que é tecnologia?',
+    'É a aplicação do conhecimento para criar soluções'
 )
 
 criaCartao(
