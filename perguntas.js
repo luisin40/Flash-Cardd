@@ -148,6 +148,10 @@ criaCartao(
     'Pergunta 1',
     'Resposta 1'
 )
-
+criaCartao(
+   'Disciplina 1',
+    'Pergunta 1',
+    'Resposta 1'
+)
 
 
